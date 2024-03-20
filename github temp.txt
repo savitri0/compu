@@ -1,0 +1,30 @@
+<html>
+<head>
+	<title>my poem</title>
+</head>
+<body> style;"background colour:orange;">
+     <center>
+<h1 style=colour;blue;">VACHANA</h1>
+<img.skc=basavanna.jpg>
+<p style="font=size;40px;background colour;green
+color;yellow;">the rich<br>
+will make temples for shiva,<br>
+what shall i,<br>
+a poor man,<br>
+do;br>
+<br>
+my legs or pillars,<br>
+the body the shrine,<br>
+the head of cupoto,<br>
+of gold,<br>
+<br>
+listen,o god of the meeting rivers,<br>
+things standing fall,<br>
+but moving shall ever stop,<br>
+</p>
+<p style =font-size;100%;">
+<i> <b>,basavanna </b> </i>
+</p>
+</center>
+</body>
+</html>
